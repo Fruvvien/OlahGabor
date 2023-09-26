@@ -1,0 +1,25 @@
+.divPics{
+    text-align: center;
+}
+.pics{
+    width: 50%;
+}
+body{
+    background-color: gray;
+}
+
+h2{
+    color: red;
+}
+p{
+    color: white;
+}
+span{
+    color: white;
+}
+li{
+    color: white;
+}
+.lastH2{
+    text-decoration: underline;
+}
